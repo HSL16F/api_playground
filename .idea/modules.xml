@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PycharmProjects/M3/.idea/M3.iml" filepath="$USER_HOME$/PycharmProjects/M3/.idea/M3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/api_playground.iml" filepath="$PROJECT_DIR$/.idea/api_playground.iml" />
     </modules>
   </component>
